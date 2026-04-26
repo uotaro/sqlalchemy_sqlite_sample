@@ -1,0 +1,4 @@
+.venv_wsl/
+**/__pycache__/**
+**/01_bread_shop.py
+**/bread_shop.db
